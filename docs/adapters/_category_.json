@@ -1,0 +1,9 @@
+{
+    "label": "Adapters",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "LLM adapters"
+    }
+}
+  
